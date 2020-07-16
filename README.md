@@ -16,10 +16,10 @@
 | [Week 11](./week11.md) | June 15 - 20, 2020 | None/Personal Site |
 | [Week 12](./week12.md) | June 22 - 27, 2020 | Pinterest && Personal Site |
 | BREAK | June 29 - July 4, 2020 | timeoff |
-| [Week 13](./week13.md) | July 6 - 11, 2020 | tdb |
-| [Week 14](./week14.md) | July 13 - 18, 2020 | tdb |
-| [Week 15](./week15.md) | July 20 - 25, 2020 | tdb |
-| [Week 16](./week16.md) | July 27 - August 1, 2020 | tdb |
+| [Week 13](./week13.md) | July 6 - 11, 2020 | Pinterest && Personal Site again |
+| [Week 14](./week14.md) | July 13 - 18, 2020 | Nutshell |
+| [Week 15](./week15.md) | July 20 - 25, 2020 | Nutshell |
+| [Week 16](./week16.md) | July 27 - August 1, 2020 | Nutshell |
 | [Week 17](./week17.md) | August 3 - 8, 2020 | tdb |
 | [Week 18](./week18.md) | August 10 - 15, 2020 | tdb |
 | [Week 19](./week19.md) | August 17 - 22, 2020 | tdb |
