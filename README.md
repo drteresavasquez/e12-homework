@@ -20,11 +20,11 @@
 | [Week 14](./week14.md) | July 13 - 18, 2020 | Nutshell |
 | [Week 15](./week15.md) | July 20 - 25, 2020 | Nutshell |
 | [Week 16](./week16.md) | July 27 - August 1, 2020 | Nutshell |
-| [Week 17](./week17.md) | August 3 - 8, 2020 | tdb |
-| [Week 18](./week18.md) | August 10 - 15, 2020 | tdb |
-| [Week 19](./week19.md) | August 17 - 22, 2020 | tdb |
-| [Week 20](./week20.md) | August 24 - 29, 2020 | tdb |
-| [Week 21](./week21.md) | August 31 - September 5, 2020 | tdb |
-| [Week 22](./week22.md) | September 7 - 12, 2020 | tdb |
-| [Week 23](./week23.md) | September 14 - 19, 2020 | tdb |
-| [Week 24](./week24.md) | September 21 - 26, 2020 | tdb |
+| [Week 17](./week17.md) | August 3 - 8, 2020 | Nutshell Presentations and React Installs |
+| [Week 18](./week18.md) | August 10 - 15, 2020 | React |
+| [Week 19](./week19.md) | August 17 - 22, 2020 | React |
+| [Week 20](./week20.md) | August 24 - 29, 2020 | React |
+| [Week 21](./week21.md) | August 31 - September 5, 2020 | React |
+| [Week 22](./week22.md) | September 7 - 12, 2020 | Capstones|
+| [Week 23](./week23.md) | September 14 - 19, 2020 | Capstones |
+| [Week 24](./week24.md) | September 21 - 26, 2020 | Capstones |
