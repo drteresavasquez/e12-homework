@@ -1,7 +1,7 @@
 # Week 21
 
 ## Study Group Assignment
-[React Horder Part 1 (and READ and CREATE of Part 2](https://github.com/nss-nightclass-projects/react-hoarder)
+[React Horder Part 1 (and READ and CREATE of Part 2)](https://github.com/nss-nightclass-projects/react-hoarder)
 
 ## Individual
 
